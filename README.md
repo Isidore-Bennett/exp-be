@@ -1,4 +1,4 @@
-Tests are failing, shocking. I did a rewrite of some key functionality so a lot is broken.
+Tests are failing, shocking. I did a rewrite of some key functionality so a lot is broken. So please ./gradlew clean build -x test
 
 Java 8
 
